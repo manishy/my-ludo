@@ -21,13 +21,13 @@
   },
   "homepage": "https://github.com/STEP-tw/ludo-dvamps#readme",
   "devDependencies": {
-    "chai": "^4.1.2"
+    "chai": "^4.1.2",
+     "supertest": "^1.0.0"
   },
   "dependencies": {
     "cookie-parser": "^1.4.3",
-    "express": "^4.16.2",
+    "express": "^4.16.3",
     "pg": "^7.4.1",
-    "pug": "^2.0.1",
-    "supertest": "^1.0.0"
+    "pug": "^2.0.1"
   }
 }
